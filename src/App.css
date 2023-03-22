@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  display: grid;
+}
+.footer{
+  background-color: black;
+  color: white;
+  padding: 5px;
+  font-weight: bold;
+}

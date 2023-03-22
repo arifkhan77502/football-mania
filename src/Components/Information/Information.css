@@ -1,0 +1,25 @@
+.img img{
+    width: 100%;
+    height: auto;
+    border: none;
+    border-radius: 10px;
+}
+
+.info-container{
+    width: auto;
+    text-align: center;
+    border: 2px solid rgb(240, 240, 240);
+    box-shadow: 0 1px 0  rgba(17,17,26,0.1), 0 8px 24px  rgba(17,17,26,0.1), 0 7px 32px  rgba(43, 154, 224,0.2);
+    border-radius: 10px;
+    margin: 0 auto 30px auto;
+}
+.info{
+    text-align: start;
+    margin: 0 auto;
+    width: auto;
+    padding: 10px 5px;
+}
+.info p{
+    text-align: justify;
+    font-size: 14px;
+}

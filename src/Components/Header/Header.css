@@ -1,0 +1,26 @@
+.menuBar{
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 9;
+    margin-bottom: 50px;
+}
+.link{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.link:hover{
+    color: darkgray;
+}
+.playerCountBox{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,41 @@
+.formContainer{
+    margin: 60px auto;
+    padding: 5%;
+}
+.formTitle{
+    margin-bottom: 5vh;
+}
+.formTitle h1{
+    color: mediumslateblue;
+}
+.formTitle p{
+    color: rgb(21, 0, 113);
+}
+.formBox{
+    padding: 2% 5%;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px 0 rgba(199, 85, 237, 0.2), 0 -3px 6px 0 rgba(0, 200, 250, 0.26);
+}
+
+.shadow{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 15px;
+    border-radius: 10px;
+}
+.textArea{
+    /* height: 20vh; */
+    border: none;
+    outline: none;
+}
+.submitBtn{
+    width: 50%;
+    height: 40px;
+    font-size: 20px;
+    margin: 20px auto;
+}
+.formContainer h6{
+    color: rgb(255, 0, 93);
+}

@@ -1,0 +1,33 @@
+.playersBox{
+    margin: 0 auto 10px auto;
+    padding: 5px 10px;
+    width: auto;
+    border: none;
+    box-shadow: 0 1px 0  rgba(17,17,26,0.1), 0 8px 24px  rgba(17,17,26,0.1), 0 7px 32px  rgba(43, 154, 224,0.2);
+    border-radius: 10px;
+    text-align: center;
+}
+.playersInfo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+.playersInfo p{
+    margin: 0;
+    color: rgb(96, 68, 252);
+}
+.playersInfo h6{
+    width: 15em;
+    margin: 0;
+    text-align: center;
+}
+.playersInfo img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.fa-trash{
+    color: red;
+    cursor: pointer;
+}

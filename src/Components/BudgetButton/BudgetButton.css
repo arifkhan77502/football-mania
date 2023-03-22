@@ -1,0 +1,19 @@
+.budgetBtn{
+    position: fixed;
+    right: 0;
+    z-index: 9;
+    margin-top: -5px;
+}
+.budgetBtn .budgetLink{
+    display: inline-flex;
+    color: rgb(255, 0, 111);
+    font-weight: bold;
+    text-decoration: none;
+    padding: 2px 5px 5px 10px;
+    background-color: rgb(13, 1, 61);
+    border-radius: 0 0 0 35px;
+}
+.budgetLink p{
+    margin: auto;
+    color: white;
+}
