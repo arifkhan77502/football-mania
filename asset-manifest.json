@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/football-mania/static/css/main.e555c658.css",
+    "main.js": "/football-mania/static/js/main.a7fd2e12.js",
+    "static/js/787.73c16e82.chunk.js": "/football-mania/static/js/787.73c16e82.chunk.js",
+    "static/media/players.png": "/football-mania/static/media/players.307c00df4458b04846ec.png",
+    "static/media/favicon.png": "/football-mania/static/media/favicon.19f934e8302bd7cb51fd.png",
+    "index.html": "/football-mania/index.html",
+    "main.e555c658.css.map": "/football-mania/static/css/main.e555c658.css.map",
+    "main.a7fd2e12.js.map": "/football-mania/static/js/main.a7fd2e12.js.map",
+    "787.73c16e82.chunk.js.map": "/football-mania/static/js/787.73c16e82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e555c658.css",
+    "static/js/main.a7fd2e12.js"
+  ]
+}
